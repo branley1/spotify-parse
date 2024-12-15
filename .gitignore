@@ -5,3 +5,6 @@ json_to_excel.py
 *.log
 my_spotify_data.zip
 .env*
+Pipfile
+Pipfile.lock
+global_packages_backup.txt
