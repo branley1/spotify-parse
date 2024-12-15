@@ -1,1 +1,7 @@
+# Ignore venv/, .env and python file
 .env
+venv/
+json_to_excel.py
+*.log
+my_spotify_data.zip
+.env*
